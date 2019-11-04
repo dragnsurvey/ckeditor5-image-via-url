@@ -1,0 +1,26 @@
+{
+  "name": "ckeditor5-image-via-url",
+  "version": "1.0.0",
+  "description": "Insert image via url in ckeditor5",
+  "main": "src/imageviaurlembed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ckeditor5",
+    "image",
+    "url",
+    "plugin"
+  ],
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^12.2.1",
+    "@ckeditor/ckeditor5-ui": "^13.0.2",
+    "@ckeditor/ckeditor5-widget": "^11.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhna/ckeditor5-image-via-url"
+  },
+  "author": "khanhna",
+  "license": "MIT"
+}
