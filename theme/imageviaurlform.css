@@ -23,16 +23,4 @@
 	& .ck-button-margin {
 		margin-left: 6px;
 	}
-
-	@mixin ck-imageviaurl-phone {
-		flex-wrap: wrap;
-
-		& .ck-labeled-input {
-			flex-basis: 100%;
-		}
-
-		& .ck-button {
-			flex-basis: 50%;
-		}
-	}
 }
